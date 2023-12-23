@@ -1,0 +1,19 @@
+{
+  "name": "homework-06",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "Tim Richards",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.2",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.11.3"
+  }
+}
